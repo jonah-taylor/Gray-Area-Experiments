@@ -95,6 +95,9 @@ header a {
 	transition: none 200ms ease-out;
 	transition-property: color, background;
 }
+header a {
+	cursor: pointer;
+}
 
 header a:hover {
 	background: #e81c4f;
